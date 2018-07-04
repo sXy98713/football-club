@@ -1,0 +1,10 @@
+1
+Warriors	3500
+1
+Kerr	50	89	500w	
+5
+Curry     	30	98	3400w	450	9	5000w
+Durant    	29	98	2500w	460	9	5000w
+Thompson  	28	88	1700w	380	7	3000w
+Green     	28	84	1640w	200	6	2000w
+Iguadola  	34	82	1400w	180	14	2000w

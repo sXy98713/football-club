@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(足球俱乐部管理程序（企业版）.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  client.cpp
+g:\学习\c++\足球俱乐部管理程序（企业版）\足球俱乐部管理程序（企业版）\socket.h(53): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1846): note: 参见“inet_ntoa”的声明
+g:\学习\c++\足球俱乐部管理程序（企业版）\足球俱乐部管理程序（企业版）\socket.h(97): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\um\winsock2.h(1828): note: 参见“inet_addr”的声明
+g:\学习\c++\足球俱乐部管理程序（企业版）\足球俱乐部管理程序（企业版）\league.h(1092): warning C4102: “inputname”: 未引用的标签
+  足球俱乐部管理程序（企业版）.vcxproj -> G:\学习\C++\足球俱乐部管理程序（企业版）\Debug\客户端.exe
+  足球俱乐部管理程序（企业版）.vcxproj -> G:\学习\C++\足球俱乐部管理程序（企业版）\Debug\客户端.pdb (Partial PDB)
